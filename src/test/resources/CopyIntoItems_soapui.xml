@@ -1,0 +1,21 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soap="http://schemas.microsoft.com/sharepoint/soap/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <soap:CopyIntoItems>
+         <!--Optional:-->
+         <soap:SourceUrl>?</soap:SourceUrl>
+         <!--Optional:-->
+         <soap:DestinationUrls>
+            <!--Zero or more repetitions:-->
+            <soap:string>?</soap:string>
+         </soap:DestinationUrls>
+         <!--Optional:-->
+         <soap:Fields>
+            <!--Zero or more repetitions:-->
+            <soap:FieldInformation Type="?" DisplayName="?" InternalName="?" Id="?" Value="?"/>
+         </soap:Fields>
+         <!--Optional:-->
+         <soap:Stream>cid:880141736325</soap:Stream>
+      </soap:CopyIntoItems>
+   </soapenv:Body>
+</soapenv:Envelope>

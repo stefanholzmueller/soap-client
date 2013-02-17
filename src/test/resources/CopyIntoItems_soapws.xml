@@ -1,0 +1,15 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soap="http://schemas.microsoft.com/sharepoint/soap/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <soap:CopyIntoItems>
+         <soap:SourceUrl>gero et</soap:SourceUrl>
+         <soap:DestinationUrls>
+            <soap:string>sonoras imperio</soap:string>
+         </soap:DestinationUrls>
+         <soap:Fields>
+            <soap:FieldInformation Type="Computed" DisplayName="ventos tempestatesque" InternalName="temperat iras" Id="turbine corripuit" Value="regemque dedit"/>
+         </soap:Fields>
+         <soap:Stream>cid:1223643885869</soap:Stream>
+      </soap:CopyIntoItems>
+   </soapenv:Body>
+</soapenv:Envelope>

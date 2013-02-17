@@ -1,0 +1,1 @@
+<CopyIntoItems xmlns="http://schemas.microsoft.com/sharepoint/soap/"><SourceUrl>mySourceUrl</SourceUrl><DestinationUrls><string>myDestinationUrl1</string><string>myDestinationUrl2</string></DestinationUrls><Fields><FieldInformation Type="Number" DisplayName="field1displayName" InternalName="field1internalName" Value="field1value"/></Fields><Stream>KC0y</Stream></CopyIntoItems>
